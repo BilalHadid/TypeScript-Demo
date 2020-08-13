@@ -1,3 +1,4 @@
+"use strict";
 console.log("HEllo World");
 var firstName = "Bilal";
 var secondName = "Hadid";
